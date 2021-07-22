@@ -6,7 +6,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title></title>
+	<title>sekolah</title>
 </head>
 <body>
     <?
